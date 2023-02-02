@@ -3,6 +3,7 @@
 The Bookshelf is an e-commerce website that sells books!
 
 MVP:
+final test of approval!
 
 1.
 2.
