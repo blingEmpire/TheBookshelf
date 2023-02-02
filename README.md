@@ -1,5 +1,7 @@
 # TheBookshelf
-The Bookshelf is e-commerce website that sells books!
+
+The Bookshelf is an e-commerce website that sells books!
+MVP goes here:
 
 Creators:
 
